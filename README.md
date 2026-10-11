@@ -71,4 +71,5 @@ Student from Israel and self-taught developer. I know Python and C#, and I build
 
 ### 📫 How to reach me
 
+<a href="https://www.linkedin.com/in/yaniv-spokoiny/"><img src="https://img.shields.io/badge/LinkedIn-Yaniv_Spokoiny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:yaniv2909sp@gmail.com"><img src="https://img.shields.io/badge/Email-yaniv2909sp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
