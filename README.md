@@ -8,7 +8,7 @@
 
 ### 🙋 Who I am
 
-Student from Israel and self-taught developer. I know Python and C#, and I build systems by designing them and driving AI coding agents (Claude Code, Codex, Cursor) to build them with me. My background is in security: SOC work, phishing analysis, and building security automations.
+Student from Israel and self-taught developer. I build with Python and C#, mostly around AI agents and security. My background: SOC work, phishing analysis, and security automations.
 
 ---
 
