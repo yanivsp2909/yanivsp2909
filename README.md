@@ -2,7 +2,7 @@
 
 # Hey, I'm Yaniv 👋
 
-**Self-taught developer · Security automation · AI agents**
+**Self-taught developer · Building things around AI**
 
 </div>
 
