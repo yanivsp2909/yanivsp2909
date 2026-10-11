@@ -8,7 +8,7 @@
 
 ### 🙋 Who I am
 
-Student from Israel and self-taught developer. I know Python and C#, and I build systems by designing them and driving AI coding agents (Claude Code, Codex, Cursor) to build them with me. My background is in security: I interned in Check Point's SOC and built automations for security work there.
+Student from Israel and self-taught developer. I know Python and C#, and I build systems by designing them and driving AI coding agents (Claude Code, Codex, Cursor) to build them with me. My background is in security: SOC work, phishing analysis, and building security automations.
 
 ---
 
@@ -35,7 +35,7 @@ Student from Israel and self-taught developer. I know Python and C#, and I build
 <summary><b>Past work</b></summary>
 <br>
 
-- **🎣 Phishing domain monitor** <sub><i>(Check Point SOC internship · not open source)</i></sub><br>
+- **🎣 Phishing domain monitor** <sub><i>(not open source)</i></sub><br>
   You give it a website, and it scans many other websites to find the ones phishing it: lookalike domains, copied pages, fake logins.
 - **🔐 Security automations**<br>
   Automations that take repetitive security work off analysts' hands: collecting and enriching data, checking it against threat intel, and sorting results so humans only look at what matters.
